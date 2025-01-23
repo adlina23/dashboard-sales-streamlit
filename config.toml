@@ -1,0 +1,19 @@
+[theme]
+# Primary accent color for interactive elements.
+primaryColor = "#10416a"  # Vibrant blue for a professional and dynamic accent
+
+# Background color for the main content area.
+backgroundColor = "#FDF5E6"  # Soft pastel cream for warmth and elegance
+
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor = "#ebd1a7"  # Light pastel for a subtle, inviting contrast
+
+# Color used for almost all text.
+textColor = "#2C3E50"  # Deep blue-gray for sharp and professional readability
+
+# Font family for all text in the app, except code blocks. One of "sans serif", "serif", or "monospace".
+# Default: "sans serif"
+font = "sans serif"
+
+
+
